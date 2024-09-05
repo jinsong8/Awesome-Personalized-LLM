@@ -12,6 +12,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
       - [Big Five Factors Evaluation](#big-five-factors-evaluation)
       - [Other Personal Evaluation](#other-personal-evaluation)
     - [Benchmark](#benchmark)
+    - [Survey](#survey)
   - [Awesome Datasets](#awesome-datasets)
   - [Related Repositories](#related-repositories)
 
@@ -88,6 +89,13 @@ We strongly encourage the researchers that want to promote their fantastic work 
 | [**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**](https://arxiv.org/abs/2401.01275) | Arxiv24 | 2024-01-02 | [CharacterEval](https://github.com/morecry/CharacterEval) | - |
 | [**RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**](https://arxiv.org/abs/2312.16132) | Arxiv23 | 2023-12-12 | [RoleEval](https://github.com/Magnetic2014/RoleEval) | - |
 | [**LaMP: When Large Language Models Meet Personalization**](https://arxiv.org/pdf/2304.11406.pdf) | Arxiv23 | 2023-05-19 | - | - |
+
+### Survey
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/pdf/2407.11484) | Arxiv24 | 2024-09-01 | [Awesome-Role Playing-Papers](https://github.com/nuochenpku/Awesome-Role-Play-Papers) | - |
+| [**Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization**](https://arxiv.org/pdf/2406.01171) | Arxiv24 | 2024-06-01 | [PersonaLLM-Survey](https://github.com/MiuLab/PersonaLLM-Survey) | - |
+| [**From Persona to Personalization: A Survey on Role-Playing Language Agents**](https://arxiv.org/pdf/2404.18231) | Arxiv24 | 2023-04-28 | - | - |
 
 ## Awesome Datasets
 
