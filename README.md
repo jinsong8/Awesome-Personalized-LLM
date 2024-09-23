@@ -23,6 +23,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Beyond Dialogue: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**](https://arxiv.org/pdf/2408.10903) | Arxiv24 | 2024-08-29 | [BeyondDialogue](https://github.com/yuyouyu32/BeyondDialogue) | - |
 | [**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**](https://arxiv.org/pdf/2403.13679.pdf) | Arxiv24 | 2024-03-21 | [RoleInteract](https://github.com/X-PLUG/RoleInteract) | - |
 | [**Unveiling the Secrets of Engaging Conversations: Factors that Keep Users Hooked on Role-Playing Dialog Agents**](https://arxiv.org/pdf/2402.11522.pdf) | Arxiv24 | 2024-03-13 | - | - |
 | [**Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent**](https://arxiv.org/pdf/2402.13717.pdf) | Arxiv24 | 2024-02-21 | [Neeko](https://github.com/weiyifan1023/Neeko) | - |
